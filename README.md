@@ -22,8 +22,8 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+![Video Walkthroug](https://github.com/Karan10120/web102_prework/assets/52723858/76101b51-6f74-4720-87a2-4ae75b3ed0f0)
 
-<img src='https://imgur.com/a/U4xgeNh.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
